@@ -20,4 +20,4 @@
 
 ## WEEK10: Large Scale Machine Learning
 
-## WEEK11: Application Example: Photo OCR
+## WEEK11: Application Example: Photo OOO
